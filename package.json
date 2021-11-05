@@ -1,7 +1,7 @@
 {
   "license": "0BSD",
   "main": "src/main.js",
-  "name": "node-boilerplate",
+  "name": "javascript-boilerplate",
   "type": "module",
   "version": "1.0.0",
   "dependencies": {},

@@ -1,6 +1,6 @@
-# node-boilerplate
+# javascript-boilerplate
 
-This repository provides modern development tools for new Node.js projects:
+This repository provides modern development tools for new JavaScript projects:
 
 * `$ yarn dev`  runs [nodemon](https://nodemon.io/)       for live reloading
 * `$ yarn docs` runs [JSDoc](https://jsdoc.app/)          for documentation
